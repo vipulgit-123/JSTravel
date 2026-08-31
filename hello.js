@@ -1,4 +1,4 @@
-console.log("hello")
+console.log("hello") 
 
 const hum = ()=>{
     a =12;
@@ -7,4 +7,10 @@ const hum = ()=>{
     console.log(c);
     
 }
-hum()
+hum() 
+
+a  = 67
+console.log(a);
+a = 'vipul'
+console.log(a );
+
